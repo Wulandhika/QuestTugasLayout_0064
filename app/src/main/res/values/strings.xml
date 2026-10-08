@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuestTugasLayout</string>
+    <string name="header_title">Teknologi Informasi</string>
+    <string name="header_subtitle">Universitas Muhammadiyah Yogyakarta</string>
+
+    <!-- Data Card 1 -->
+    <string name="name_1">Wulandhika</string>
+    <string name="phone_1">085436874190</string>
+    <string name="address_1">Turi, Sleman</string>
+
+    <!-- Data Card 2 -->
+    <string name="name_2">Sarwendah</string>
+    <string name="phone_2">085436874190</string>
+    <string name="address_2">Kasihan, Bantul</string>
+
+    <!-- Data Card 3 -->
+    <string name="name_3">Ivan Gunawan</string>
+    <string name="phone_3">085436874190</string>
+    <string name="address_3">Depok, Sleman</string>
+
+    <!-- Data Card 4 -->
+    <string name="name_4">Nikolas Saputra</string>
+    <string name="phone_4">085436874190</string>
+    <string name="address_4">Gamping, Sleman</string>
+
+    <string name="copyright">Copyright, 2026</string>
+</resources>
